@@ -1,0 +1,33 @@
+﻿body {
+    background-color:darkslateblue;
+    padding-bottom: 20px;
+    overflow-x:hidden;
+}
+
+#header {
+    background-image: url('images/grand piano.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-top: -22px;
+    margin-right: -50px;
+    width: 1950px;
+    height: 1090px;
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.navbar .navbar-brand:hover {
+    background-color:rebeccapurple;
+}
+
+.navbar .nav > li {
+    color: green;
+}
+
+.navbar .nav > li:hover {
+    background-color: rebeccapurple;
+}
